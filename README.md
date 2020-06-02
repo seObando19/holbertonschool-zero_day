@@ -1,1 +1,3 @@
-# Welcome My repository --- My first repo in Holberton School.
+# Welcome My repository 
+---
+My first repository in Holberton School.
